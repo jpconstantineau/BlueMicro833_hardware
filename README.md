@@ -2,7 +2,7 @@
 
 ### What is BlueMicro833?
 
-BlueMicro833 is a nRF52833 breakout board with the form factor of an Arcuino Pro Micro
+BlueMicro833 is a nRF52833 breakout board with the form factor of an Arduino Pro Micro
 
 
 ### Hardware License
